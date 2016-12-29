@@ -1,0 +1,21 @@
+body {
+  background-color: #4B0082;
+  color: #FAFAD2;
+}
+
+div {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  width: 50%;
+  border: 5px solid black;
+  background-color: #FAFAD2;
+  padding: 10px;
+  color: #4B0082;
+}
+
+#score {
+  text-align: center;
+  font-weight: bold;
+  font-size: 200%;
+}
